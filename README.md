@@ -1,4 +1,4 @@
-ALL MODULE ASSIGNMENTS
+MODULE 1-3 ASSIGNMENTS (GRADED)
 
 MODULE 1 [HERE](https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php)
 
